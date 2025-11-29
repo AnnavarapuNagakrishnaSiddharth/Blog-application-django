@@ -27,3 +27,7 @@ Thumbs.db
 # Environment / Secrets
 *.env
 .env
+
+
+
+home/media/
