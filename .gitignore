@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# Django
+db.sqlite3
+/media/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# System files
+Thumbs.db
+*.log
+
+# Environment / Secrets
+*.env
+.env
